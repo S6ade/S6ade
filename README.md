@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, books, music, streaming and, of course, web development.🙌
 - 🌱 I’m currently studying at Full-stack Developer
 - 💞️ I'm looking for cooperation for communication on web development topics, but also regular communication.😊
-- 📫 How to reach me inst:s6ade
+- 📫 How to reach me inst:korneev_gang
 
 <!---
 S6ade/S6ade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
